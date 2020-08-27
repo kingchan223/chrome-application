@@ -1,0 +1,16 @@
+body {
+  background-color: olivedrab;
+}
+h1 {
+  transition: color 0.5s ease-in-out;
+  color: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.clicked {
+  color: yellow;
+}
+.btn {
+  cursor: pointer;
+}
